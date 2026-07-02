@@ -10,6 +10,12 @@
   <img src="assets/network-access-map.svg" alt="学生科研党网络连通性工具箱结构图" width="920">
 </p>
 
+<p align="center">
+  <img src="assets/screenshots/tailscale.png" alt="Tailscale public homepage screenshot" width="880">
+</p>
+
+<sub>图片来源：Tailscale 公开页面截图，[https://tailscale.com/](https://tailscale.com/)。截图用于说明组网与远程访问工具入口，不代表官方背书。</sub>
+
 最后人工核验：**2026-06-27**
 
 如果这个项目帮你少折腾一次 SSH、校园网、远程 GPU 或内网穿透，欢迎 star。后续会继续补充真实排障模板和科研场景配置。
